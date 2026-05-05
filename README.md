@@ -154,9 +154,7 @@ pip install -r requirements.txt
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Add your LinkedIn URL] |
-| 📱 Instagram | [Add your Instagram URL] |
-| ▶️ YouTube | [Add your YouTube URL] |
+| 💼 LinkedIn | [https://www.linkedin.com/in/kashyap-shah-28229332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] |
 | 💻 GitHub | [github.com/kshah2712](https://github.com/kshah2712) |
 
 ---
@@ -185,6 +183,5 @@ Post on LinkedIn + Instagram
 
 *Started April 2025 | Expected completion: September 2025*
 
-⭐ Star this repo if you find it helpful!
 
 </div>
