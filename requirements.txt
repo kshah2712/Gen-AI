@@ -1,0 +1,14 @@
+jupyter
+notebook
+numpy
+pandas
+matplotlib
+scikit-learn
+sentence-transformers
+tiktoken
+gensim
+langchain
+openai
+torch
+transformers
+Pillow
